@@ -8,13 +8,20 @@ my home iot
 
 ## Software
 * mosquitto : mqtt broker
-* homebridge : NodeJS server you can run on your home network that emulates the iOS HomeKit API
 * nodered : A visual tool for wiring the Internet of Things
+* homebridge : NodeJS server you can run on your home network that emulates the iOS HomeKit API
 * homebridge-plugin
+* app
+- hesperus : https://itunes.apple.com/kr/app/hesperus/id969348892?l=en&mt=8
+- elgato-eve : https://itunes.apple.com/kr/app/elgato-eve/id917695792?l=en&mt=8
 
 ## Hardware
 * anything can connect to internet
 * esp8266!!
+
+hesperus    | elgato-eve | hesperus
+------------|------------|------------
+![image](./pics/a.jpg) | ![image](./pics/b.jpg) | ![image](./pics/c.jpg)
 
 ### mosquitto with tls
  - https://github.com/chaeplin/nest-in-korea/blob/master/SW.md
