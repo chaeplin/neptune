@@ -2,17 +2,17 @@ my home iot
 ===========
 
 # Contents
-- [SW](#SW)
-- [HW](#HW)
+- [Software](#Software)
+- [Hardware](#Hardware)
 
 
-## SW
+## Software
 * mosquitto : mqtt broker
 * homebridge : NodeJS server you can run on your home network that emulates the iOS HomeKit API
 * nodered : A visual tool for wiring the Internet of Things
 * homebridge-plugin
 
-## HW
+## Hardware
 * anything can connect to internet
 * esp8266!!
 
