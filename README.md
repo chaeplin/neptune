@@ -5,7 +5,7 @@ my home iot
  - [SW](#SW)
  - [HW](#HW)
 
- ## SW
+## SW
   - mosquitto : mqtt broker
   - homebridge : NodeJS server you can run on your home network that emulates the iOS HomeKit API
   - nodered : A visual tool for wiring the Internet of Things
