@@ -8,7 +8,7 @@ my home iot
 
 ## Software
 * mosquitto : mqtt broker
-* nodered : A visual tool for wiring the Internet of Things
+* nodered (optional) : A visual tool for wiring the Internet of Things
 * homebridge : NodeJS server you can run on your home network that emulates the iOS HomeKit API
 * homebridge-plugin
 * app
@@ -28,6 +28,7 @@ hesperus    | elgato-eve | hesperus
  - https://github.com/chaeplin/nest-in-korea/blob/master/SW.md
 
 ### install nodered
+ - for mqtt debugging and inject custopm payload
  - http://nodered.org/docs/getting-started/installation
 
 ### install homebridge
