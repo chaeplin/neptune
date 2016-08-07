@@ -12,12 +12,13 @@ my home iot
 * homebridge : NodeJS server you can run on your home network that emulates the iOS HomeKit API
 * homebridge-plugin
 * app
-- hesperus : https://itunes.apple.com/kr/app/hesperus/id969348892?l=en&mt=8
-- elgato-eve : https://itunes.apple.com/kr/app/elgato-eve/id917695792?l=en&mt=8
+ - hesperus : https://itunes.apple.com/kr/app/hesperus/id969348892?l=en&mt=8
+ - elgato-eve : https://itunes.apple.com/kr/app/elgato-eve/id917695792?l=en&mt=8
 
 ## Hardware
 * anything can connect to internet
 * esp8266!!
+* for remote control : apple tv(with ios 10 : apple tv or ipad)
 
 hesperus    | elgato-eve | hesperus
 ------------|------------|------------
