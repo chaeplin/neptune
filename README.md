@@ -5,15 +5,16 @@ my home iot
 - [SW](#SW)
 - [HW](#HW)
 
+
 ## SW
- - mosquitto : mqtt broker
- - homebridge : NodeJS server you can run on your home network that emulates the iOS HomeKit API
- - nodered : A visual tool for wiring the Internet of Things
- - homebridge-plugin
+* mosquitto : mqtt broker
+* homebridge : NodeJS server you can run on your home network that emulates the iOS HomeKit API
+* nodered : A visual tool for wiring the Internet of Things
+* homebridge-plugin
 
 ## HW
- - anything can connect to internet
- - esp8266!!
+* anything can connect to internet
+* esp8266!!
 
 ### mosquitto with tls
  - https://github.com/chaeplin/nest-in-korea/blob/master/SW.md
