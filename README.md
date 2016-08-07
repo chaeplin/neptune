@@ -2,8 +2,8 @@ my home iot
 ===========
 
 # Contents
-- [Software](#Software)
-- [Hardware](#Hardware)
+- [Software](#software)
+- [Hardware](#hardware)
 
 
 ## Software
